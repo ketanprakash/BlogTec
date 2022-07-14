@@ -3,7 +3,10 @@
   "version": "1.0.0",
   "description": "A blog website built for personal use. It will have blogs about personal projects and technologies I learn.",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "dev": "npx nodemon app.js",
+    "start": "node app.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ketanprakash/BlogTec.git"
