@@ -1,0 +1,22 @@
+{
+  "name": "blogtec",
+  "version": "1.0.0",
+  "description": "A blog website built for personal use. It will have blogs about personal projects and technologies I learn.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ketanprakash/BlogTec.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ketanprakash/BlogTec/issues"
+  },
+  "homepage": "https://github.com/ketanprakash/BlogTec#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongoose": "^6.4.4"
+  }
+}
